@@ -7,7 +7,7 @@ namespace rest_dotnet_final.Services.Implementations
     {
         Person Create(Person person);
         Person FindById(long id);
-        List<Person> FindByAll(long id);
+        List<Person> FindByAll();
         Person Update(Person person);
         void Delete(long id);
     }

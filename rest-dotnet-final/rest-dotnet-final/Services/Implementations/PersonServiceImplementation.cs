@@ -21,7 +21,7 @@ namespace rest_dotnet_final.Services.Implementations
             return;
         }
 
-        public List<Person> FindByAll(long id)
+        public List<Person> FindByAll()
         {
             List<Person> people = new List<Person>();
 
