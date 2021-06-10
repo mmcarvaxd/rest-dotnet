@@ -5,8 +5,4 @@
     <RootNamespace>rest_dotnet_final</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Services\Implementations\" />
-  </ItemGroup>
-
 </Project>
